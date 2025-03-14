@@ -1,4 +1,6 @@
 # Using-SQL-in-Cybersecurity
+**This exercise is based on a fictional organization**
+
 I will use SQL to identify different vulnerabilities in a system. 
 
 The Table Format file will give the format of the dataset I will use. 
